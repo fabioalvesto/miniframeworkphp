@@ -1,0 +1,13 @@
+{
+  "name": "fabio/nome_do_projeto",
+  "description": "Breve descrição do projeto",
+  "authors": [
+      {
+          "name": "Fábio Alves",
+          "email": "fabio.devop@gmail.com"
+      }
+  ],
+  "require": {
+      "php": ">=5.6"
+  }
+}
